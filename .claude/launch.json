@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "escape-room", "runtimeExecutable": "node", "runtimeArgs": ["/Users/hyunkyeongsim/Desktop/ai/escape-room/serve.mjs"], "port": 8765 }
+  ]
+}
